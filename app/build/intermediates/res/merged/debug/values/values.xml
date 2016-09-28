@@ -161,6 +161,7 @@
     <dimen name="h1">30sp</dimen>
     <dimen name="h2">20sp</dimen>
     <dimen name="icon">100dp</dimen>
+    <dimen name="image">250dp</dimen>
     <dimen name="my_magin">15dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>

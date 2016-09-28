@@ -1,0 +1,16 @@
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\MyAdaptor$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\MainActivity$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$dimen$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$string$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$integer$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$dimen$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$layout$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$layout$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$id$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$style$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$mipmap$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$drawable$override.class
+CHANGED,C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\nirattisai\traffic\R$styleable$override.class

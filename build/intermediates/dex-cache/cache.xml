@@ -9,24 +9,10 @@
         <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_a8f3ab048b2f8a61bf488db6fd0d53f6722d00b5.jar" />
     </item>
     <item
-        jar="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_3b04a3c3b3a78451552d1f421934f94dbec728fd.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_15ae3d2746dfe5273ed457fe2f3aa457f2fc3b01.jar" />
-    </item>
-    <item
         jar="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="22.0.1"
-        sha1="0f2075e193687f7c05a7ba7520b9649144ee1480">
+        sha1="2cedd72df8947102ffea957ad125a67d2d477a56">
         <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9442cbdebebc223fba6540a597e16154ea1fc3f8.jar" />
     </item>
     <item
@@ -37,11 +23,25 @@
         <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_fe40d5474f5925ac9ec7aa2fb0174c39581fc6ca.jar" />
     </item>
     <item
+        jar="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_3b04a3c3b3a78451552d1f421934f94dbec728fd.jar" />
+    </item>
+    <item
         jar="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="22.0.1"
         sha1="9e46cc6232909a462709da602da7f36ae74f1527">
         <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\instant-run_39e6ef449ea8e9ccaa0e09f2ce2efca85308eec2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Pc\Downloads\Traffic2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_15ae3d2746dfe5273ed457fe2f3aa457f2fc3b01.jar" />
     </item>
 
 </items>
